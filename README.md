@@ -1,6 +1,7 @@
 Amina Toleugazinova IT-2513
 Web Technologies 1
 Assignment 1
+https://toleugazinova.github.io/Web1_assignment1/
 
 Objective
 The main goal of this assignment is to learn the core principles of web development using HTML5 and CSS3. 
